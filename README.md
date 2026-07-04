@@ -15,7 +15,7 @@ The xlsx file is to: 
 
 2. calculate Linear Regression Coefficient
 
-3. extend projections, apply SD, and
+3. extend projections, apply SD, Linear Regression Coefficient(s), and
 
 4. generate line chart
 
